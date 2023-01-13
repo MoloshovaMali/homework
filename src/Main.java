@@ -47,6 +47,7 @@ public class Main {
         fish.speedFish();
         fish.eat();
 
+        System.out.println("klseufbj");
     }
 }
 

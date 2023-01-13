@@ -3,6 +3,8 @@ public class Cat {
     private String colour;
 
     private int weight;
+
+
     public String getName() {
         return name;
     }
